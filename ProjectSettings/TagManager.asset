@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WalkOn
+  - WoodAmount
+  - Tree
+  - Sign
+  - SignAmount
+  - IslandName
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 221853613
+    locked: 0
+  - name: Islands
+    uniqueID: 2723626115
+    locked: 0
+  - name: Entities
+    uniqueID: 2013064117
+    locked: 0
+  - name: Objects
+    uniqueID: 2506643829
+    locked: 0
+  - name: Above All Else
+    uniqueID: 1382160015
+    locked: 0
